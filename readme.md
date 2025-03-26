@@ -1,0 +1,1 @@
+Create a thermocouple logger with an ESP32 and a MAX6675 chip (for K type thermocouples). 
